@@ -23,7 +23,7 @@ const HeroLanding = () => {
                 </div>
                 <div className='md:max-w-[500px] max-w-[350px] md:absolute -top-20 lg:right-0 -right-24  '>
                     
-                    <img className='w-full h-full' src='/images/profile-pix.png' alt="my_image" />
+                    <img className=' w-full h-full' src='/images/profile-pix2.png' alt="my_image" />
                     <img className='absolute bottom-32 -left-16' src="/images/pattern-circle.svg" alt="patterns" />
                 </div>
             </section>
