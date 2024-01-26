@@ -22,7 +22,10 @@ const HeroLanding = () => {
                     <a href='https://docs.google.com/document/d/13IKgxnKQl1ooG4jQptdndfjbAXAoZ81kFspm8Z4imoA/edit' download="Chisom'e Resume" target={'_blank'}><CustomButton text={'DOWNLOAD RESUME'} /></a>
                 </div>
                 <div className='md:max-w-[500px] max-w-[350px] md:absolute -top-20 lg:right-0 -right-24  '>
+                    <figure className=' w-[40%x] h-[40%]'>
+
                     <img className=' w-full' src={'/images/profile-pix2.png'} alt="my_image" />
+                    </figure>
                     <img className='absolute bottom-32 -left-16' src="/images/pattern-circle.svg" alt="patterns" />
                 </div>
             </section>
