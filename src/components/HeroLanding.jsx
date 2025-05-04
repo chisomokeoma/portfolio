@@ -19,7 +19,7 @@ const HeroLanding = () => {
                 <div className='md:text-left text-center md:mt-[134px] mt-[40px] relative z-10'>
                     <h1 className=' md:text-[80px] text-[32px] leading-none'>Nice to <br className='xl:hidden md:block hidden' /> meet you! <br className='xl:block md:hidden block' /> I'm  <span className='border-b border-green-500'><br className='xl:hidden md:block hidden' />Chisom Okeoma</span>.</h1>
                     <p className='md:max-w-[380px] w-[380px] md:text-[18px] text-[16px] md:mx-0 mx-auto py-[50px]'>Based in Nigeria, I'm a front-end developer passionate about building accessible web apps that users love.</p>
-                    <a href='https://docs.google.com/document/d/13IKgxnKQl1ooG4jQptdndfjbAXAoZ81kFspm8Z4imoA/edit' download="Chisom'e Resume" target={'_blank'}><CustomButton text={'DOWNLOAD RESUME'} /></a>
+                    <a href='https://docs.google.com/document/d/1GaMHKScqgmtEgUSunMO7fd0uCj1ND981_AF182b45as/edit?tab=t.0' download="Chisom'e Resume" target={'_blank'}><CustomButton text={'DOWNLOAD RESUME'} /></a>
                 </div>
                 <div className='md:max-w-[500px] max-w-[350px] md:absolute -top-20 lg:right-0 -right-24  '>
                     
